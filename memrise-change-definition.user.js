@@ -1,5 +1,5 @@
 // ==UserScript==
-// @description Memrise Change Word Definition.
+// @description Memrise Change Definition.
 // @downloadURL https://github.com/letitend/memrise-change-definition/raw/master/memrise-change-definition.user.js
 // @grant       GM_deleteValue
 // @grant       GM_getValue
@@ -7,7 +7,7 @@
 // @grant       unsafeWindow
 // @match       https://www.memrise.com/course/*/garden/*
 // @match       https://www.memrise.com/garden/review/*
-// @name        Memrise Change Word Definition
+// @name        Memrise Change Definition
 // @namespace   https://github.com/letitend
 // @updateURL   https://github.com/letitend/memrise-change-definition/raw/master/memrise-change-definition.user.js
 // @version     0.0.1
